@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Codewars/Codewars.iml" filepath="$PROJECT_DIR$/../Codewars/Codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank.iml" filepath="$PROJECT_DIR$/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/../Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chatbotScripts/chatbotScripts.iml" filepath="$PROJECT_DIR$/../chatbotScripts/chatbotScripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hacker-leet-wars/hacker-leet-wars.iml" filepath="$PROJECT_DIR$/../hacker-leet-wars/hacker-leet-wars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tchatllenges/src/main/main.iml" filepath="$PROJECT_DIR$/../tchatllenges/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twitch-chatbot-scripts/twitch-chatbot-scripts.iml" filepath="$PROJECT_DIR$/../twitch-chatbot-scripts/twitch-chatbot-scripts.iml" />
+    </modules>
+  </component>
+</project>
